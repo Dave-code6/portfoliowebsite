@@ -1,0 +1,15 @@
+.navheader,
+.facephoto{
+    display: flex;
+}
+
+.navheader{
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: space-around;
+    padding:25px;
+}
+
+
+
+
